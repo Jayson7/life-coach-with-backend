@@ -13,7 +13,7 @@ def home(request):
         name = request.POST['Name']
         send_mail(
                 subject,
-               
+    
                 message,
                 email,
                 ["omobolaji520@gmail.com"],

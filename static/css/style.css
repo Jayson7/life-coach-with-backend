@@ -6,6 +6,7 @@ body {
 }
 
 body a {
+    scroll-behavior: smooth;
     transition: 1s all;
     -webkit-transition: 3s all;
     -moz-transition: 3s all;
